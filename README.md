@@ -1,5 +1,6 @@
 #GIS Analysis of San Diego Unexploded Ordinance
 
-Data from SanDAG Data Warehouse, under 'Miscellaneous'.
+Unexploded Ordnance data from SanDAG Data Warehouse, under 'Miscellaneous'.
 
-Add SD military base shapefiles to identify ordnance on or off of military bases.
+Military base data from [data.gov](https://catalog.data.gov/dataset/tiger-line-shapefile-2013-nation-u-s-military-installation-national-shapefile)
+
