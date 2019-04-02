@@ -1,4 +1,4 @@
-# GIS Analysis of San Diego Unexploded Ordinance
+# GIS Map of Unexploded Ordinance in San Diego County
 
 Unexploded Ordnance data from SanDAG Data Warehouse, under 'Miscellaneous'.
 
@@ -8,4 +8,4 @@ Military base data from [data.gov](https://catalog.data.gov/dataset/tiger-line-s
 * Uses R's GIS packages to map data
 
 ## To do
-1. Use shiny to create dashboard
+* Consider using shiny to create dashboard
